@@ -3,7 +3,8 @@
 </p>
 
 # Perview
-
+Please use Desktop Mode
+https://neumorphic-elements-orpin.vercel.app/
 
 # Download
 https://www.mediafire.com/file/0x37nwxmgx09ie4/neumorphic-elements.zip/file
