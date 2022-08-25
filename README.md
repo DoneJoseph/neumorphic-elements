@@ -3,7 +3,7 @@
 </p>
 
 # Perview
-Please use Desktop Mode
+Please use Desktop Mode:
 https://neumorphic-elements-orpin.vercel.app/
 
 # Download
